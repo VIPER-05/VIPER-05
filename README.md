@@ -1,3 +1,5 @@
+
+<style font-family="aerial"></style>
 <h1 align="center">👋 Hi, I'm VIPER-05</h1>
 
 <p align="center">
@@ -45,6 +47,4 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-a
 
 ---
 
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=VIPER-05.VIPER-05" alt="Visitor Badge">
-</p>
+ 
