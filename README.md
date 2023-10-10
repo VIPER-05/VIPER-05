@@ -8,7 +8,7 @@
 <h1 align="center"  style="color: #FF5733; font-size: 36px; font-weight: bold;  Times New Roman">👋 Hi, I'm VIPER-05/VAIBHAV</h1>
 
 <p align="center">
-  <img src=" https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_400_400/0/1696894899781?e=1702512000&v=beta&t=WQQY9KSnn8dq2ZqS1L0F5AqArc0BcdzgArx7f0Pi65Y" alt="VIPER-05's Avatar" width="100">
+  <img src=" https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_800_800/0/1696894899781?e=1702512000&v=beta&t=YD47iGtnIjbEzax2Q_kcuM_CYr_vCRikmt2s9_SP6RU" alt="VIPER-05's Avatar" width="100">
 </p>
 
 <p align="center">A passionate coder exploring the digital universe!</p>
@@ -52,5 +52,5 @@ Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin
 ---
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_800_800/0/1696894899781?e=1702512000&v=beta&t=YD47iGtnIjbEzax2Q_kcuM_CYr_vCRikmt2s9_SP6RU " alt="Visitor Badge">
+  <img src="">
 </p>
