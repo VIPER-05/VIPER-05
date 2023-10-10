@@ -6,7 +6,7 @@
   <img src="https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_400_400/0/1696894899781?e=1702512000&v=beta&t=WQQY9KSnn8dq2ZqS1L0F5AqArc0BcdzgArx7f0Pi65Y" alt="" width="100" height="100">
 </p>
 
-<p align="center">A passionate coder exploring the digital universe!</p>
+<p align="center">A passionate coder exploring the digital universe of technology!</p>
 
 <p align="center">
   <a href="agriavaibhav2004@gmail.com">
@@ -16,37 +16,26 @@
     <img alt="Linkedln" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png"  height="60px" width="60px">
   </a>
 </p>
-
 ---
-
 ### 🌱 I'm Currently Learning
-
-- Web Development 
+- Front End Web Development 
 - Data Structures and Algorithms in C++
 - JavaScript
 - Python
-  
-
 ### 👀 I'm Interested In
-
 - Open Source Projects
 - Coding Challenges
 - Tech Communities
-
 ### 💞️ I'm Looking To Collaborate On
-
 - Exciting Open Source Projects
 - Hackathons and Coding Competitions
-
 ### 🚀 Some of My Projects
-
 - [Project 1](PORTFOLIO website):---
 - [Project 2](Netflix clone):---
-
+- [Project 3](practice ScrollTrigger JS):---
 ### 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-agria-407a6324a).
 
----
-
+ 
  
