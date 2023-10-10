@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
  
-<h1 align="center"  style="color: #FF5733; font-size: 36px; font-weight: bold;">👋 Hi, I'm VIPER-05/VAIBHAV</h1>
+<h1 align="center"  style="color: #FF5733; font-size: 36px; font-weight: bold;  Times New Roman">👋 Hi, I'm VIPER-05/VAIBHAV</h1>
 
 <p align="center">
   <img src="https://github.com/VIPER-05.png" alt="VIPER-05's GitHub Avatar" width="100">
