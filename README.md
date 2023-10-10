@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="agriavaibhav2004@gmail.com">
-    <img alt="Email" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" height="60px" width="60px">
+    <img alt="G-Mail" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" height="60px" width="60px">
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-agria-407a6324a">
-    <img alt="" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png"  height="60px" width="60px">
+    <img alt="Linkedln" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png"  height="60px" width="60px">
   </a>
 </p>
 
