@@ -13,7 +13,7 @@
     <img alt="Email" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" height="60px" width="60px">
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-agria-407a6324a">
-    <img alt="LinkedIn" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png"  >
+    <img alt="" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png"  >
   </a>
 </p>
 
