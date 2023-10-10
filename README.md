@@ -1,6 +1,6 @@
 
  
-<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/128/25/25657.png" width="55" height="55">👋 I'm VIPER-05</h1>
+<h1 align="center"><img src="https://cdn-icons-png.flaticon.com/128/25/25657.png" width="55" height="55" border-radius="50">👋 I'm VIPER-05</h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_400_400/0/1696894899781?e=1702512000&v=beta&t=WQQY9KSnn8dq2ZqS1L0F5AqArc0BcdzgArx7f0Pi65Y" alt="" width="100" height="100">
