@@ -41,7 +41,7 @@
 
 ### 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-agria-407a6324a) or drop me an [email](agriavaibhav2004@gmail.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-agria-407a6324a).
 
 ---
 
