@@ -16,7 +16,7 @@
     <img alt="Linkedln" src="https://cdn-icons-png.flaticon.com/128/3536/3536569.png"  height="60px" width="60px">
   </a>
 </p>
----
+ 
 
 ### 🌱 I'm Currently Learning
 - Front End Web Development 
