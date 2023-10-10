@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="agriavaibhav2004@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%20Here-blue?style=flat-square&logo=gmail">
+    <img alt="Email" src="https://img.shields.io/badge/Email-%20-blue?style=flat-square&logo=gmail">
   </a>
   <a href="https://www.linkedin.com/in/vaibhav-agria-407a6324a">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue?style=flat-square&logo=linkedin">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%20LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
 
