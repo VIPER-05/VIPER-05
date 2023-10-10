@@ -1,7 +1,8 @@
  <h1 align="center">👋 Hi, I'm VIPER-05</h1>
 
 <p align="center">
-  <img src=" <h1 align="center">👋 Hi, I'm VIPER-05</h1>
+  <img src="![bytesize-icons](https://github.com/VIPER-05/VIPER-05/assets/147040710/a8fd8a37-600f-405e-aeb1-ec63d1aee70d)
+ " ><h1 align="center">👋 Hi, I'm VIPER-05</h1>
 
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_800_800/0/1696894899781?e=1702512000&v=beta&t=YD47iGtnIjbEzax2Q_kcuM_CYr_vCRikmt2s9_SP6RU " alt="VIPER-05's GitHub Avatar" width="100" height="100">
