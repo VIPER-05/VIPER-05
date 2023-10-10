@@ -10,7 +10,7 @@
   <a href="agriavaibhav2004@gmail,com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Your%20Email%20Here-blue?style=flat-square&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com/in/vaibhav-agria-407a6324a">
+  <a href="">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
@@ -41,7 +41,7 @@
 
 ### 📫 How to Reach Me
 
-Feel free to connect with me on [LinkedIn](https://linkedin.com/in/your-linkedin-profile) or drop me an [email](mailto:your.email@example.com).
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-agria-407a6324a) or drop me an [email](agriavaibhav2004@gmail.com).
 
 ---
 
