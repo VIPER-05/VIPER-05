@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm VIPER-05</h1>
 
 <p align="center">
-  <img src=" https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_400_400/0/1696894899781?e=1702512000&v=beta&t=WQQY9KSnn8dq2ZqS1L0F5AqArc0BcdzgArx7f0Pi65Y" alt="VIPER-05's GitHub Avatar" width="100" height="100">
+  <img src="https://media.licdn.com/dms/image/D4D03AQG8sdkegl_v1g/profile-displayphoto-shrink_400_400/0/1696894899781?e=1702512000&v=beta&t=WQQY9KSnn8dq2ZqS1L0F5AqArc0BcdzgArx7f0Pi65Y" alt="VIPER-05's GitHub Avatar" width="100" height="100">
 </p>
 
 <p align="center">A passionate coder exploring the digital universe!</p>
