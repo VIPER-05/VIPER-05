@@ -7,10 +7,10 @@
 <p align="center">A passionate coder exploring the digital universe!</p>
 
 <p align="center">
-  <a href="agriavaibhav2004@gmail,com">
+  <a href="agriavaibhav2004@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-Your%20Email%20Here-blue?style=flat-square&logo=gmail">
   </a>
-  <a href="">
+  <a href="https://www.linkedin.com/in/vaibhav-agria-407a6324a">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Your%20LinkedIn-blue?style=flat-square&logo=linkedin">
   </a>
 </p>
