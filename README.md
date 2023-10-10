@@ -17,11 +17,13 @@
   </a>
 </p>
 ---
+
 ### 🌱 I'm Currently Learning
 - Front End Web Development 
 - Data Structures and Algorithms in C++
 - JavaScript
 - Python
+  
 ### 👀 I'm Interested In
 - Open Source Projects
 - Coding Challenges
