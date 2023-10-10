@@ -28,13 +28,16 @@
 - Open Source Projects
 - Coding Challenges
 - Tech Communities
+- 
 ### 💞️ I'm Looking To Collaborate On
 - Exciting Open Source Projects
 - Hackathons and Coding Competitions
+- 
 ### 🚀 Some of My Projects
 - [Project 1](PORTFOLIO website):---
 - [Project 2](Netflix clone):---
 - [Project 3](practice ScrollTrigger JS):---
+  
 ### 📫 How to Reach Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/vaibhav-agria-407a6324a).
