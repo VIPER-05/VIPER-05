@@ -32,10 +32,10 @@
 ### 💞️ I'm Looking To Collaborate On
 - Exciting Open Source Projects
 - Hackathons and Coding Competitions
-- 
+ 
 ### 🚀 Some of My Projects
 - [Project 1](PORTFOLIO website):---
-- [Project 2](Netflix clone):---
+- [Project 2](Netflix clone static):---
 - [Project 3](practice ScrollTrigger JS):---
   
 ### 📫 How to Reach Me
