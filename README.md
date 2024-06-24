@@ -1,5 +1,5 @@
  
-## 🌐 Socials: 
+## 🌐 Socials : 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/SPARDAxVERGIL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/timmy.v_) ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VIPERCoLeader) 
 
 # 💻 Tech Stack :
